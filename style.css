@@ -1,0 +1,9 @@
+.newdiv
+{
+    width: 10%;
+    height:25;
+    margin: 20px;
+    background-color: aqua;
+    text-align: center;
+    font-size: 2em;
+}
